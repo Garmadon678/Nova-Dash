@@ -1,8 +1,11 @@
 {
   "name": "Nova Dash",
   "short_name": "NovaDash",
+  "id": "/Nova-Dash/",
   "start_url": "/Nova-Dash/",
   "display": "standalone",
+  "orientation": "landscape",
+  "description": "Nova Dash Ultimate Edition — Jeu arcade spatial rapide et addictif",
   "background_color": "#000000",
   "theme_color": "#00ffff",
   "icons": [
