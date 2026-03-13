@@ -1,0 +1,11 @@
+<head>
+<meta charset="UTF-8">
+
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#00ffff">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="NOVA DASH">
+
+<meta name="author" content="NextGenStudios">
+<meta name="description" content="NOVA DASH Ultimate Edition — Jeu arcade original">
