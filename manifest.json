@@ -10,3 +10,24 @@
   "start_url": "/https://garmadon678.github.io/Nova-Dash/",
   "theme_color": "#00ffff"
 }
+{
+  "name": "Nova Dash",
+  "short_name": "Nova Dash",
+  "start_url": "/Nova-Dash/",
+  "display": "fullscreen",
+  "background_color": "#000000",
+  "theme_color": "#00ffff",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
