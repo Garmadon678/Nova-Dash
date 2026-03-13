@@ -1,12 +1,10 @@
 {
   "name": "Nova Dash",
-  "short_name": "Nova Dash",
-  "description": "Nova Dash Ultimate Edition — Jeu arcade original",
+  "short_name": "NovaDash",
   "start_url": "/Nova-Dash/",
-  "display": "fullscreen",
+  "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#00ffff",
-  "orientation": "landscape",
   "icons": [
     {
       "src": "icon-192.png",
